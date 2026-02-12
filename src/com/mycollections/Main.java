@@ -15,7 +15,7 @@ public class Main {
     // Main method to drive java program.
     public static void main(String[] args) {
 
-        // Creating an empty linked list.
+        // Creating an empty LinkedHashMap.
         LinkedHashMap<Integer, Integer> myLinkedMap = new LinkedHashMap<>();
 
         // Initializing the map.
