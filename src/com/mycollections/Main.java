@@ -5,7 +5,6 @@
 package com.mycollections;
 
 import java.util.LinkedHashMap;
-import java.util.LinkedList;
 
 /**
  *  Main class.
